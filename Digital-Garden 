@@ -4,7 +4,7 @@
      <meta charset="UTF8">
         <meta name="viewport" content=""width=device-width, initial-scale=1.0">
         <title>My Digital Garden</title>"
-        <link rel="CSS StyleSheet" href="docs/CSS.StyleSheet"> 
+        <link rel="CSS StyleSheet" href="docs/StyleSheet.css"> 
     </head>
     <body>
 
@@ -14,7 +14,8 @@
 
                 <h1>My Digital Garden</h1>
 
-                <p><em>Digital Garden</em></p>
+                <p><em>Digital Garden</em></p> 
+
             </header>
         </article>
 
